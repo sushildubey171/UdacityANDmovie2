@@ -1,4 +1,4 @@
 # MovieWorld
-Enter your api key in util/TmdbUrls.java
-at "your_key"
+Enter your api key in java/com/SD/utils/TmdbUrls.java
+in place of "your_key"
 
